@@ -1,2 +1,4 @@
 mountpoints:
   /: https://drive.google.com/drive/folders/1x00g8R5Fs8_3AdsfDgmtiXLTXifvUwmf
+routes:
+  "/about": "/content/about.md"
